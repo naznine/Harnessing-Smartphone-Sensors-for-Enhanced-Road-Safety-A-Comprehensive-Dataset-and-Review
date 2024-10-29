@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains Jupyter Notebooks and associated code for analyzing driving behavior and road anomalies using accelerometer data collected from smartphones. The project focuses on three main areas: technical validation, calibration, and statistical analysis of driving sessions.
+This repository contains Jupyter Notebooks and associated code for analyzing driving behavior and road anomalies using variosu sensor data collected from smartphones. The project focuses on three main areas: calibration, technical validation, and statistical analysis of driving sessions.
 
 ## Notebooks Overview
 
